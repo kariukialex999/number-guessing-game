@@ -26,8 +26,8 @@ The program generates a random number between 1 and 100, and the player must gue
 
 ---
 
-## Project URL
-- https://github.com/kariukialex999/number-guessing-game
+## 🔗 project URL
+https://github.com/kariukialex999/number-guessing-game
 
 ---
 
@@ -36,5 +36,5 @@ The program generates a random number between 1 and 100, and the player must gue
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/kariukialex999/number-guessing-game.git
 cd number-guessing-game
