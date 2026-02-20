@@ -27,7 +27,7 @@ The program generates a random number between 1 and 100, and the player must gue
 ---
 
 ## 🔗 project URL
-https://github.com/kariukialex999/number-guessing-game
+https://roadmap.sh/projects/number-guessing-game
 
 ---
 
